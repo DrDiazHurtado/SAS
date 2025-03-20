@@ -52,4 +52,4 @@ Feel free to tweak the dataset, add more observations, or swap in real clinical 
 Enjoy exploring, and let me know if you have suggestions or find anything interesting!
 
 **Happy SAS-ing!**  
-— Marcos
+
